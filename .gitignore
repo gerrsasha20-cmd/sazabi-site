@@ -1,0 +1,18 @@
+# Python scripts (utilities, not part of the site)
+*.py
+__pycache__/
+
+# HAR files (large network captures)
+*.har
+
+# HTML archive files
+Sazabi _ AI-Native Observability.htm
+Sazabi _ AI-Native Observability_files/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor files
+.vscode/
